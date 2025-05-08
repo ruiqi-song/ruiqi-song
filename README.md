@@ -21,8 +21,8 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 ### 📫 How to Reach Me
 
 - Email: `ruiqi.song@ia.ac.cn`
-- Personal Website: [https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
-- Google Scholar: [link](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
+- [Personal Website](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
 
 ---
 
