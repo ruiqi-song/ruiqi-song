@@ -12,9 +12,8 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=default" alt="Ruiqi's GitHub stats" />
-</p>
+![Ruiqi Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=default&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=ture)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiqi-song&layout=compact)
 
 ---
 
