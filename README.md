@@ -3,6 +3,14 @@
 <p align="center">
   <em>Researcher in | 🚙 End-to-End Autonomous Driving | 🌍 Scene Understanding | 🤖️ Embodied Intelligence</em>
 </p>
+
+<p> 
+<a href="https://ruiqi-song.github.io"><img src="https://img.shields.io/badge/Ruiqi%20Song-Homepage-red?style=flat-square" height="25px" alt="Ruiqi Song"></a>
+<a href="https://github.com/ruiqi-song"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="25px" alt="github"></a>
+<a href="https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="25px" alt="Google Scholar"></a>
+<a href="https://www.zhihu.com/people/cherish-11-70/collections"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
+</p> 
+
 I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences (CAS).
 
 ### Previous Efforts
