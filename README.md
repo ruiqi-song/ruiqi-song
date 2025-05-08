@@ -9,6 +9,7 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 
 - 🚙 End-to-End Driving: [GenAD](https://github.com/wzzheng/GenAD)(*ECCV2024*)![GenAD](https://img.shields.io/github/stars/wzzheng/GenAD) -> [InsightDrive](https://github.com/songruiqi/InsightDrive)![InsightDrive](https://img.shields.io/github/stars/ruiqi-song/InsightDrive)
 - 🌍 Autonomous Driving in Unstructured Scene : [UnScenes3D](https://github.com/ruiqi-song/UnScenes3D)![UnScenes3D](https://img.shields.io/github/stars/ruiqi-song/UnScenes3D) -> [UnsOcc](https://github.com/ruiqi-song/UnsOcc)![UnsOcc](https://img.shields.io/github/stars/ruiqi-song/UnsOcc)
+- 🌍 World Model: 
 
 ### 📈 GitHub Stats
 
