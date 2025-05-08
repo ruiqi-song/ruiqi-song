@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi 👋, I'm Ruiqi Song</h2>
 <p align="center">
-  <em>Researcher in | 🚙 End-to-End Autonomous Driving | 🌍 Scene Understanding | 🤖️ Embodied Intelligence</em>
+  <em>Researcher in | 🚙 End-to-End Autonomous Driving | 🔭 Scene Understanding | 🤖️ Embodied Intelligence</em>
 </p>
 
 <p> 
@@ -22,7 +22,7 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 
 ### 📈 GitHub Stats
 
-![Ruiqi Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=default&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=ture)
+![Ruiqi Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=default&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiqi-song&layout=compact)
 
 ---
