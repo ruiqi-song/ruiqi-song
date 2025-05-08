@@ -3,7 +3,7 @@
 <p align="center">
   <em>Researcher in | 🚙 End-to-End Autonomous Driving | 🌍 Scene Understanding | 🤖️ Embodied Intelligence</em>
 </p>
-> I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences(CAS). I received my Ph.D. and B.S. from Tongji University and Beihang University.
+> I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences (CAS). I received my Ph.D. and B.S. from Tongji University and Beihang University.
 
 ### Previous Efforts
 
