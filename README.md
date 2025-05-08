@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm [Ruiqi Song](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)</h1>
+<h1 align="center">Hi 👋, I'm [Ruiqi Song](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)!</h1>
 <p align="center">
   <em>Researcher in | 🚙 End-to-End Autonomous Driving | 🌍 Scene Understanding | 🤖️ Embodied Intelligence</em>
 </p>
