@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/%E7%91%9E%E7%90%A6-%E5%AE%8B-528698300/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=flat-square&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"></a>
 </p> 
 
-**Ruiqi Song** is assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences [CASIA](http://www.ia.cas.cn/). I am working toward the Ph.D. degree from the National Key Laboratory of Autonomous Intelligent Unmanned Systems [Tongji University](https://skl-ais.tongji.edu.cn/) and received the M.S. degree in Electronic Engineering from [Beihang University](https://www.buaa.edu.cn/index.htm).
+**Ruiqi Song** is assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences [CASIA](http://www.ia.cas.cn/). I am working toward the Ph.D. degree from the National Key Laboratory of Autonomous Intelligent Unmanned Systems, [Tongji University](https://skl-ais.tongji.edu.cn/) and received the M.S. degree in Electronic Engineering from [Beihang University](https://www.buaa.edu.cn/index.htm).
 
 ### Previous Efforts
 
