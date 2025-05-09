@@ -31,14 +31,17 @@
 <h2 align="center">🤝 Collaborators</h2>
 
 <p align="center">
-Grateful to work with exceptional researchers and institutions:
+Grateful to collaborate with outstanding researchers and institutions:
 </p>
 
 <p align="center">
-  <a href="https://www.tongji.edu.cn/"><img src="https://img.shields.io/badge/Prof.%20Wanli%20Ouyang-Tongji%20University-blue?style=flat-square&logo=academia&logoColor=white" height="25px"/></a>
-  <a href="http://www.ia.cas.cn/"><img src="https://img.shields.io/badge/CASIA-Institute%20of%20Automation-3c3c3c?style=flat-square&logo=institution&logoColor=white" height="25px"/></a>
-  <a href="https://www.zhihu.com/people/cherish-11-70"><img src="https://img.shields.io/badge/Academic%20Dialogue-Zhihu-0079FF?style=flat-square&logo=zhihu&logoColor=white" height="25px"/></a>
+  <a href="https://www.ia.cas.cn/"><img src="https://img.shields.io/badge/Institute%20of%20Automation-CAS-blue?style=flat-square&logo=institution&logoColor=white" height="25px"/></a>
+  <a href="https://www.tongji.edu.cn/"><img src="https://img.shields.io/badge/Tongji%20University-同济大学-005eff?style=flat-square&logo=academia&logoColor=white" height="25px"/></a>
+  <a href="https://www.xjtu.edu.cn/"><img src="https://img.shields.io/badge/Xi'an%20Jiaotong%20University-西安交通大学-8e44ad?style=flat-square&logo=graduation-cap&logoColor=white" height="25px"/></a>
+  <a href="https://scholar.google.com/citations?user=jzvXnkcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Prof.%20Long%20Chen-陈龙教授-9c27b0?style=flat-square&logo=google-scholar&logoColor=white" height="25px"/></a>
+  <a href="https://www.waytous.cn/"><img src="https://img.shields.io/badge/Waytous-智能矿山解决方案-ff9800?style=flat-square&logo=briefcase&logoColor=white" height="25px"/></a>
 </p>
+
 
 ---
 
