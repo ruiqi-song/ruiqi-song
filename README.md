@@ -28,14 +28,6 @@
 ![Ruiqi Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=default&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiqi-song&layout=compact&langs_count=10&cache_seconds=60)
 
----
-
-### 📫 How to Reach Me
-- Email: `ruiqi.song@ia.ac.cn` 
-- [Personal Website](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
-- [Google Scholar](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
-
----
 <h2 align="center">🤝 Collaborators</h2>
 
 <p align="center">
@@ -47,6 +39,16 @@ Grateful to work with exceptional researchers and institutions:
   <a href="http://www.ia.cas.cn/"><img src="https://img.shields.io/badge/CASIA-Institute%20of%20Automation-3c3c3c?style=flat-square&logo=institution&logoColor=white" height="25px"/></a>
   <a href="https://www.zhihu.com/people/cherish-11-70"><img src="https://img.shields.io/badge/Academic%20Dialogue-Zhihu-0079FF?style=flat-square&logo=zhihu&logoColor=white" height="25px"/></a>
 </p>
+
+---
+
+### 📫 How to Reach Me
+- Email: `ruiqi.song@ia.ac.cn` 
+- [Personal Website](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
+
+---
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="Futures" width="300" title="Futures"/>
