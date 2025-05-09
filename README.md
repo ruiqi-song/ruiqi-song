@@ -17,7 +17,6 @@
 
 **Ruiqi Song** is assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences [CASIA](http://www.ia.cas.cn/). I am working toward the Ph.D. degree from [Tongji University](https://skl-ais.tongji.edu.cn/) and received the M.S. degree in Electronic Engineering from [Beihang University](https://www.buaa.edu.cn/index.htm).
 
-
 ### Previous Efforts
 
 - 🚙 End-to-End Autonomous Driving: [GenAD](https://github.com/wzzheng/GenAD)(*ECCV2024*)![GenAD](https://img.shields.io/github/stars/wzzheng/GenAD) -> [InsightDrive](https://github.com/songruiqi/InsightDrive)![InsightDrive](https://img.shields.io/github/stars/ruiqi-song/InsightDrive)
