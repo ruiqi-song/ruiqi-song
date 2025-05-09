@@ -37,11 +37,11 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 
 
 <p align="center" style="color: #888888; font-size: 14px;">
-  Towards AI, Robotics & Unstructured Autonomy
+  Towards AI, Autonomous Driving & Embodied Intelligence
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/homepage.png" alt="AI + Robot + Autonomous Driving Logo" width="200" title="AI + Robotics + Embodied Intelligence in Unstructured Environments"/>
+  <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/homepage.png" alt="AI + Autonomous Driving + Robot" width="200" title="Futures"/>
 </p>
 
 
