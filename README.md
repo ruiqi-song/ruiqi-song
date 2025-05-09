@@ -39,7 +39,7 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
   <span style="display: inline-block; text-align: left; vertical-align: middle; width: 50%;">
     <h3>🚗 Future of AI & Robotics</h3>
     <p>
-      Email: `ruiqi.song@ia.ac.cn`.<br/>
+      Email: `ruiqi.song@ia.ac`.<br/>
       Research in <b>autonomous driving</b>,<br/>
       <b>embodied intelligence</b>, and <b>multimodal AI</b>.
     </p>
