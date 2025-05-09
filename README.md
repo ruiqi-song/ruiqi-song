@@ -32,7 +32,6 @@
 ---
 
 ### 📫 How to Reach Me
-
 - Email: `ruiqi.song@ia.ac.cn` 
 - [Personal Website](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
 - [Google Scholar](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
