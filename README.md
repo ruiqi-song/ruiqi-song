@@ -41,17 +41,13 @@
   <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="Futures" width="300" title="Futures"/>
 </p>
 
-[//]: # (Collaborators)
+Collaborators
 
-[//]: # (<p align="left">)
-
-[//]: # (  <a href="https://www.ia.cas.cn/"><img src="https://img.shields.io/badge/CASIA-blue?style=flat-square&logo=government&logoColor=white" height="25px"/></a>)
-
-[//]: # (  <a href="https://www.tongji.edu.cn/"><img src="https://img.shields.io/badge/Tongji%20University-005eff?style=flat-square&logo=academia&logoColor=white" height="25px"/></a>)
-
-[//]: # (  <a href="http://www.waytous.com/en/"><img src="https://img.shields.io/badge/Waytous-ff9800?style=flat-square&logo=briefcase&logoColor=white" height="25px"/></a>)
-
-[//]: # (</p>)
+<p align="left">
+  <a href="https://www.ia.cas.cn/"><img src="https://img.shields.io/badge/CASIA-blue?style=flat-square&logo=government&logoColor=white" height="25px"/></a>
+  <a href="https://www.tongji.edu.cn/"><img src="https://img.shields.io/badge/Tongji%20University-005eff?style=flat-square&logo=academia&logoColor=white" height="25px"/></a>
+  <a href="http://www.waytous.com/en/"><img src="https://img.shields.io/badge/Waytous-ff9800?style=flat-square&logo=briefcase&logoColor=white" height="25px"/></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Towards_End_→_to_→_End_Autonomous_Driving_|_Scene_Understanding_|_Embodied_Intelligence_|_Generative_AI-303030?style=flat-square&logo=semantic-release&logoColor=white&labelColor=purple" />
