@@ -12,7 +12,7 @@
 <a href="https://www.zhihu.com/people/cherish-11-70/collections"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
 </p> 
 
-I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences [CASIA](http://www.ia.cas.cn/). I am working toward the Ph.D. degree from [Tongji University](https://www.tongji.edu.cn/) and received the M.S. degree in Electronic Engineering from [Beihang University](https://www.buaa.edu.cn/index.htm).
+**Ruiqi Song** a assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences [CASIA](http://www.ia.cas.cn/). I am working toward the Ph.D. degree from [Tongji University](https://www.tongji.edu.cn/) and received the M.S. degree in Electronic Engineering from [Beihang University](https://www.buaa.edu.cn/index.htm).
 
 <p align="left">
   I'm an <b>Assistant Researcher</b> at the <a href="http://www.ia.cas.cn/">State Key Laboratory of Multimodal Artificial Intelligence Systems</a>,
