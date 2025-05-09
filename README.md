@@ -40,7 +40,7 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Towards_AI_|_End-to-End_Autonomous_Driving_|_Scene_Understanding_|_Embodied_Intelligence-303030?style=flat-square&logo=semantic-release&logoColor=white&labelColor=purple" />
+  <img src="https://img.shields.io/badge/Towards_Autonomous_Driving_|_Scene_Understanding_|_Embodied_Intelligence-303030?style=flat-square&logo=semantic-release&logoColor=white&labelColor=purple" />
   <img src="https://komarev.com/ghpvc/?username=ruiqi-song&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
