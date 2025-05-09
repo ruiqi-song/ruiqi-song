@@ -28,19 +28,6 @@
 ![Ruiqi Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=default&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiqi-song&layout=compact&langs_count=10&cache_seconds=60)
 
-<h2 align="center">🤝 Collaborators</h2>
-
-<p align="center">
-Grateful to collaborate with outstanding researchers and institutions:
-</p>
-
-<p align="center">
-  <a href="https://www.ia.cas.cn/"><img src="https://img.shields.io/badge/Institute%20of%20Automation-CAS-blue?style=flat-square&logo=institution&logoColor=white" height="25px"/></a>
-  <a href="https://www.tongji.edu.cn/"><img src="https://img.shields.io/badge/Tongji%20University-同济大学-005eff?style=flat-square&logo=academia&logoColor=white" height="25px"/></a>
-  <a href="https://www.waytous.cn/"><img src="https://img.shields.io/badge/Waytous-智能矿山解决方案-ff9800?style=flat-square&logo=briefcase&logoColor=white" height="25px"/></a>
-</p>
-
-
 ---
 
 ### 📫 How to Reach Me
