@@ -17,7 +17,7 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 ### Previous Efforts
 
 - 🚙 End-to-End Autonomous Driving: [GenAD](https://github.com/wzzheng/GenAD)(*ECCV2024*)![GenAD](https://img.shields.io/github/stars/wzzheng/GenAD) -> [InsightDrive](https://github.com/songruiqi/InsightDrive)![InsightDrive](https://img.shields.io/github/stars/ruiqi-song/InsightDrive)
-- 🔭 Unstructured Scene UnderStanding: [UnScenes3D](https://github.com/ruiqi-song/UnScenes3D)![UnScenes3D](https://img.shields.io/github/stars/ruiqi-song/UnScenes3D) -> [UnsOcc](https://github.com/ruiqi-song/UnsOcc)![UnsOcc](https://img.shields.io/github/stars/ruiqi-song/UnsOcc)
+- 🔭 Unstructured Scene U![img.png](img.png)nderStanding: [UnScenes3D](https://github.com/ruiqi-song/UnScenes3D)![UnScenes3D](https://img.shields.io/github/stars/ruiqi-song/UnScenes3D) -> [UnsOcc](https://github.com/ruiqi-song/UnsOcc)![UnsOcc](https://img.shields.io/github/stars/ruiqi-song/UnsOcc)
 - 🌍 World Model: [SimWorld](https://github.com/Li-Zn-H/SimWorld)![GenAD](https://img.shields.io/github/stars/Li-Zn-H/SimWorld)
 
 ### 📈 GitHub Stats
@@ -34,6 +34,22 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 - [Google Scholar](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
 
 ---
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <h3>🚀 Research Focus</h3>
+    <ul>
+      <li>Artificial Intelligence</li>
+      <li>Autonomous Driving</li>
+      <li>Embodied Intelligence</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="banner" style="width: 100%; border-radius: 8px;" />
+  </div>
+</div>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruiqi-song&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
