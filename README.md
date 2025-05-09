@@ -37,7 +37,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="Futures" width="300" title="Futures"/>
 </p>
