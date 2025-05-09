@@ -8,6 +8,7 @@
 <a href="https://ruiqi-song.github.io"><img src="https://img.shields.io/badge/Ruiqi%20Song-Homepage-red?style=flat-square" height="25px" alt="Ruiqi Song"></a>
 <a href="https://github.com/ruiqi-song"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="25px" alt="github"></a>
 <a href="https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="25px" alt="Google Scholar"></a>
+<a href="https://orcid.org/my-orcid?orcid=0000-0003-2261-3724"><img src="https://img.shields.io/badge/ORCID-16A085.svg?style=flat-square&logo=orcid&logoColor=white" height="25px" alt="ORCID"></a>
 <a href="https://twitter.com/ruiqi_song_cas"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" height="25px" alt="X"></a>
 <a href="https://www.zhihu.com/people/cherish-11-70/collections"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
 <a href="https://space.bilibili.com/484508622"><img src="https://img.shields.io/badge/Bilibili-FF69B4.svg?style=flat-square&logo=bilibili&logoColor=white" height="25px" alt="Bilibili"></a>
