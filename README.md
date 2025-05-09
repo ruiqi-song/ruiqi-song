@@ -36,12 +36,12 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 ---
 
 
-<p align="center" style="color: #888888; font-size: 14px;">
-  Towards AI, Autonomous Driving & Embodied Intelligence
+<p align="center">
+  <img src="https://img.shields.io/badge/Towards_AI_|_Robotics_|_Unstructured_Autonomy-303030?style=flat-square&logo=semantic-release&logoColor=white&labelColor=purple" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="Futures" width="200" title="Futures"/>
+  <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="Futures" width="300" title="Futures"/>
 </p>
 
 
