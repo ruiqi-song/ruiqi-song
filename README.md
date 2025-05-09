@@ -41,7 +41,7 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/homepage.png" alt="AI + Autonomous Driving + Robot" width="200" title="Futures"/>
+  <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/homepage.png" alt="Futures" width="50" title="Futures"/>
 </p>
 
 
