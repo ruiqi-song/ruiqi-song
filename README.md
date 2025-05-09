@@ -35,18 +35,18 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <div style="flex: 1; padding-right: 20px;">
+<div align="center">
+  <span style="display: inline-block; text-align: left; vertical-align: middle; width: 50%;">
     <h3>🚗 Future of AI & Robotics</h3>
     <p>
       Building next-generation intelligent systems.<br/>
       Research in <b>autonomous driving</b>,<br/>
       <b>embodied intelligence</b>, and <b>multimodal AI</b>.
     </p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="vision" width="400"/>
-  </div>
+  </span>
+  <span style="display: inline-block; vertical-align: middle; width: 45%;">
+    <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" width="100%">
+  </span>
 </div>
 
 
