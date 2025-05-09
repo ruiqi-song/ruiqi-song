@@ -35,19 +35,22 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 
 ---
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <h3>🚀 Research Focus</h3>
-    <ul>
-      <li>Artificial Intelligence</li>
-      <li>Autonomous Driving</li>
-      <li>Embodied Intelligence</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="banner" style="width: 100%; border-radius: 8px;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>🚗 Exploring the Future</h3>
+      <ul>
+        <li>Artificial Intelligence</li>
+        <li>Autonomous Driving</li>
+        <li>Embodied Intelligence</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
