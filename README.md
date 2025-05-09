@@ -14,6 +14,13 @@
 
 I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences [CASIA](http://www.ia.cas.cn/). I am working toward the Ph.D. degree from [Tongji University](https://www.tongji.edu.cn/) and received the M.S. degree in Electronic Engineering from [Beihang University](https://www.buaa.edu.cn/index.htm).
 
+<p align="left">
+  I'm an <b>Assistant Researcher</b> at the <a href="http://www.ia.cas.cn/">State Key Laboratory of Multimodal Artificial Intelligence Systems</a>,
+  <a href="http://www.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA)</a>. I am currently <b>pursuing a Ph.D.</b>
+  at <a href="https://www.tongji.edu.cn/">Tongji University</a>, and received my <b>M.S. degree</b> in Electronic Engineering from
+  <a href="https://www.buaa.edu.cn/index.htm">Beihang University</a>.
+</p>
+
 ### Previous Efforts
 
 - 🚙 End-to-End Autonomous Driving: [GenAD](https://github.com/wzzheng/GenAD)(*ECCV2024*)![GenAD](https://img.shields.io/github/stars/wzzheng/GenAD) -> [InsightDrive](https://github.com/songruiqi/InsightDrive)![InsightDrive](https://img.shields.io/github/stars/ruiqi-song/InsightDrive)
