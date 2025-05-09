@@ -35,19 +35,7 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 
 ---
 
-<div align="center">
-  <span style="display: inline-block; text-align: left; vertical-align: middle; width: 50%;">
-    <h3>🚗 Future of AI & Robotics</h3>
-    <p>
-      Email: `ruiqi.song@ia.ac`.<br/>
-      Research in <b>autonomous driving</b>,<br/>
-      <b>embodied intelligence</b>, and <b>multimodal AI</b>.
-    </p>
-  </span>
-  <span style="display: inline-block; vertical-align: middle; width: 45%;">
-    <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" width="100%">
-  </span>
-</div>
+
 
 
 
