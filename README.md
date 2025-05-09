@@ -10,6 +10,7 @@
 <a href="https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="25px" alt="Google Scholar"></a>
 <a href="https://twitter.com/ruiqi_song_cas"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" height="25px" alt="X"></a>
 <a href="https://www.zhihu.com/people/cherish-11-70/collections"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=flat-square&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
+<a href="https://space.bilibili.com/484508622"><img src="https://img.shields.io/badge/Bilibili-FF69B4.svg?style=flat-square&logo=bilibili&logoColor=white" height="25px" alt="Bilibili"></a>
 </p> 
 
 **Ruiqi Song** is assistant researcher at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences [CASIA](http://www.ia.cas.cn/). I am working toward the Ph.D. degree from [Tongji University](https://www.tongji.edu.cn/) and received the M.S. degree in Electronic Engineering from [Beihang University](https://www.buaa.edu.cn/index.htm).
