@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" width="120" />
-</p>
 
 <h2 align="center">Hi 👋, I'm Ruiqi Song</h2>
 <p align="center">
@@ -39,7 +36,13 @@ I'm a assistant researcher at the State Key Laboratory of Multimodal Artificial 
 ---
 
 
+<p align="center" style="color: #888888; font-size: 14px;">
+  Towards AI, Robotics & Unstructured Autonomy
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/homepage.png" alt="AI + Robot + Autonomous Driving Logo" width="200" title="AI + Robotics + Embodied Intelligence in Unstructured Environments"/>
+</p>
 
 
 
