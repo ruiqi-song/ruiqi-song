@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" width="120" />
+</p>
 
 <h2 align="center">Hi 👋, I'm Ruiqi Song</h2>
 <p align="center">
