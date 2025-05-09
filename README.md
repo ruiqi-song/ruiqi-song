@@ -36,16 +36,15 @@
 - Email: `ruiqi.song@ia.ac.cn` 
 - [Personal Website](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
 - [Google Scholar](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
-<p align="center">
-  🤝 <b><i>Open to Collaboration</i></b> 🚀
-</p>
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="Futures" width="300" title="Futures"/>
 </p>
-
+<p align="center">
+  🤝 <b><i>Open to Collaboration</i></b> 🚀
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Towards_End_→_to_→_End_Autonomous_Driving_|_Scene_Understanding_|_Embodied_Intelligence_|_Generative_AI-303030?style=flat-square&logo=semantic-release&logoColor=white&labelColor=purple" />
   <img src="https://komarev.com/ghpvc/?username=ruiqi-song&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
