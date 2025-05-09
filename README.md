@@ -36,6 +36,18 @@
 - [Google Scholar](https://scholar.google.com/citations?user=hMSOTPoAAAAJ&hl=en)
 
 ---
+<h2 align="center">🤝 Collaborators</h2>
+
+<p align="center">
+Grateful to work with exceptional researchers and institutions:
+</p>
+
+<p align="center">
+  <a href="https://www.tongji.edu.cn/"><img src="https://img.shields.io/badge/Prof.%20Wanli%20Ouyang-Tongji%20University-blue?style=flat-square&logo=academia&logoColor=white" height="25px"/></a>
+  <a href="http://www.ia.cas.cn/"><img src="https://img.shields.io/badge/CASIA-Institute%20of%20Automation-3c3c3c?style=flat-square&logo=institution&logoColor=white" height="25px"/></a>
+  <a href="https://www.zhihu.com/people/cherish-11-70"><img src="https://img.shields.io/badge/Academic%20Dialogue-Zhihu-0079FF?style=flat-square&logo=zhihu&logoColor=white" height="25px"/></a>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ruiqi-song/ruiqi-song/main/assets/homepage.png" alt="Futures" width="300" title="Futures"/>
 </p>
