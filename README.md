@@ -34,10 +34,10 @@
 Proud to collaborate with:
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.ia.cas.cn/"><img src="https://img.shields.io/badge/CASIA-blue?style=flat-square&logo=government&logoColor=white" height="25px"/></a>
   <a href="https://www.tongji.edu.cn/"><img src="https://img.shields.io/badge/Tongji%20University-005eff?style=flat-square&logo=academia&logoColor=white" height="25px"/></a>
-  <a href="https://www.waytous.cn/"><img src="https://img.shields.io/badge/Waytous-ff9800?style=flat-square&logo=briefcase&logoColor=white" height="25px"/></a>
+  <a href="http://www.waytous.com/en/"><img src="https://img.shields.io/badge/Waytous-ff9800?style=flat-square&logo=briefcase&logoColor=white" height="25px"/></a>
 </p>
 
 
