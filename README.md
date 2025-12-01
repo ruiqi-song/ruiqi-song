@@ -26,13 +26,11 @@
 [//]: # (### 📈 GitHub Stats)
 
 ## 🏆 GitHub Stats
-![Ruiqi Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=radical&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=true)
+![Ruiqi Song's GitHub Stats](https://img.shields.io/github/stars/ruiqi-song?style=for-the-badge&label=GitHub%20Stats&color=2a9d8f)
 
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiqi-song&layout=compact&langs_count=10&cache_seconds=60)
+![Top Languages](https://img.shields.io/github/languages/top/ruiqi-song?style=for-the-badge&label=Top%20Languages&color=264653)
 
-## 🔥 GitHub Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ruiqi-song&theme=radical&hide_border=true)
 
 ---
 
