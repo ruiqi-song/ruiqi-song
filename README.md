@@ -29,7 +29,6 @@
 ![Ruiqi Song's GitHub Stats](https://img.shields.io/github/stars/ruiqi-song?style=for-the-badge&label=GitHub%20Stats&color=2a9d8f)
 ![Top Languages](https://img.shields.io/github/languages/top/ruiqi-song?style=for-the-badge&label=Top%20Languages&color=264653)
 
-
 ---
 
 ### 📫 How to Reach Me
