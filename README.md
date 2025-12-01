@@ -23,10 +23,16 @@
 - 🔭 Unstructured Scene UnderStanding: [UnScenes3D](https://github.com/ruiqi-song/UnScenes3D)![UnScenes3D](https://img.shields.io/github/stars/ruiqi-song/UnScenes3D) -> [UnsOcc](https://github.com/ruiqi-song/UnsOcc)![UnsOcc](https://img.shields.io/github/stars/ruiqi-song/UnsOcc)
 - 🌍 Generitive AI: [SimWorld](https://github.com/Li-Zn-H/SimWorld)![GenAD](https://img.shields.io/github/stars/Li-Zn-H/SimWorld)
 
-### 📈 GitHub Stats
+[//]: # (### 📈 GitHub Stats)
 
-![Ruiqi Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=default&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=true)
+## 🏆 GitHub Stats
+![Ruiqi Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=radical&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=true)
+
+## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiqi-song&layout=compact&langs_count=10&cache_seconds=60)
+
+## 🔥 GitHub Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ruiqi-song&theme=radical&hide_border=true)
 
 ---
 
