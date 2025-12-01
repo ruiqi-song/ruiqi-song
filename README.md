@@ -26,8 +26,7 @@
 ### 📈 GitHub Stats
 
 ![Ruiqi Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruiqi-song&show_icons=true&theme=default&hide=contribs,prs&count_private=true&include_all_commits=true&show_owner=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiqi-song&layout=compact&langs_count=10&cache_seconds=60) 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiqi-song&layout=compact&langs_count=10&cache_seconds=60)
 
 ---
 
