@@ -20,7 +20,7 @@
 ### Previous Efforts
 
 - 🚙 End-to-End Autonomous Driving: [GenAD](https://github.com/wzzheng/GenAD)(*ECCV2024*)![GenAD](https://img.shields.io/github/stars/wzzheng/GenAD) -> [InsightDrive](https://github.com/ruiqi-song/InsightDrive)![InsightDrive](https://img.shields.io/github/stars/ruiqi-song/InsightDrive)
-- 🔭 Unstructured Scene UnderStanding: [UnScenes3D](https://github.com/ruiqi-song/UnScenes3D)![UnScenes3D](https://img.shields.io/github/stars/ruiqi-song/UnScenes3D) -> [GenOcc](https://github.com/ruiqi-song/GenOcc)![UnsOcc](https://img.shields.io/github/stars/ruiqi-song/UnsOcc)
+- 🔭 Unstructured Scene UnderStanding: [UnScenes3D](https://github.com/ruiqi-song/UnScenes3D)![UnScenes3D](https://img.shields.io/github/stars/ruiqi-song/UnScenes3D) -> [GenOcc](https://github.com/ruiqi-song/UnsOcc)![UnsOcc](https://img.shields.io/github/stars/ruiqi-song/UnsOcc)
 - 🌍 Generitive AI: [SimWorld](https://github.com/Li-Zn-H/SimWorld)![GenAD](https://img.shields.io/github/stars/Li-Zn-H/SimWorld)
 
 ### 📈 GitHub Stats
