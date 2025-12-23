@@ -23,11 +23,13 @@
 - 🔭 Unstructured Scene UnderStanding: [UnScenes3D](https://github.com/ruiqi-song/UnScenes3D)![UnScenes3D](https://img.shields.io/github/stars/ruiqi-song/UnScenes3D) -> [UnsOcc](https://github.com/ruiqi-song/UnsOcc)![UnsOcc](https://img.shields.io/github/stars/ruiqi-song/UnsOcc)
 - 🌍 Generitive AI: [SimWorld](https://github.com/Li-Zn-H/SimWorld)![GenAD](https://img.shields.io/github/stars/Li-Zn-H/SimWorld)
 
-[//]: # (### 📈 GitHub Stats)
+[//]: # ([//]: # &#40;### 📈 GitHub Stats&#41;)
+[//]: # ()
+[//]: # (## 🏆 GitHub Stats)
 
-## 🏆 GitHub Stats
-![Ruiqi Song's GitHub Stats](https://img.shields.io/github/stars/ruiqi-song?style=for-the-badge&label=GitHub%20Stats&color=2a9d8f)
-![Top Languages](https://img.shields.io/github/languages/top/ruiqi-song?style=for-the-badge&label=Top%20Languages&color=264653)
+[//]: # (![Ruiqi Song's GitHub Stats]&#40;https://img.shields.io/github/stars/ruiqi-song?style=for-the-badge&label=GitHub%20Stats&color=2a9d8f&#41;)
+
+[//]: # (![Top Languages]&#40;https://img.shields.io/github/languages/top/ruiqi-song?style=for-the-badge&label=Top%20Languages&color=264653&#41;)
 
 ---
 
